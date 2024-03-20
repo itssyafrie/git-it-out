@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class AreaOfTriangle {
     public static void main(String[] args){
+        System.out.println("Welcome To The Triangle Calculator!");
         System.out.println("Calculate The Area of A Triangle Here!");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the triangle's height in cm:");
